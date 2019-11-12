@@ -3,7 +3,7 @@ ___
 
 ## `codewars`
 
-![Code wars:find unique number](find-unique-number.png)
+![Code wars:find unique number](find-unique-number.png) copied sung's solution
 
 ## `midterm`
 
